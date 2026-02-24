@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-02-24",
+  "download_url": "https://github.com/iChunha/DramaDL/releases/download/v1.0.0/DramaDL.exe",
+  "changelog": [
+    "Initial public release",
+    "Support DramaBox, NetShort and 12+ platforms",
+    "Auto subtitle language selection",
+    "In-app auto-update system"
+  ]
+}
