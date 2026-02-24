@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "release_date": "2026-02-24",
   "download_url": "https://github.com/iChunha/DramaDL/releases/download/v1.0.0/DramaDL.exe",
   "changelog": [
@@ -9,3 +9,4 @@
     "In-app auto-update system"
   ]
 }
+
